@@ -11,5 +11,8 @@ I'm proficient with High Performance Computing sever and I live on the command l
 I can creat analysis pipeline and deploy it on high performance computing clusters, cloud resources, or create visualizations and explore data in a Jupyter notebook or Github.
 
 For more information
-My Google Scholar <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0YLxt5Uqwk-sG71onlUhqvXWykC40mR48Nw&s" alt="Sample Image" width="20" height="20">: https://scholar.google.com/citations?user=x4QIXeEAAAAJ&hl=en
+<img src="https://img.freepik.com/premium-vector/woman-profile-cartoon_18591-58480.jpg?w=1060" alt="Sample Image" width="30" height="30">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0YLxt5Uqwk-sG71onlUhqvXWykC40mR48Nw&s" alt="Sample Image" width="30" height="30">: https://scholar.google.com/citations?user=x4QIXeEAAAAJ&hl=en
+
 My about page https://about.me/lskatz
