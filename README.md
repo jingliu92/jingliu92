@@ -14,7 +14,7 @@ For more information
 
 * My about page: 
 
-* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0YLxt5Uqwk-sG71onlUhqvXWykC40mR48Nw&s" alt="Sample Image" width="25" height="25"> https://scholar.google.com/citations?user=x4QIXeEAAAAJ&hl=en
+* <img src="https://static-00.iconduck.com/assets.00/google-scholar-icon-1024x1024-052lrrku.png" alt="Sample Image" width="25" height="25"> https://scholar.google.com/citations?user=x4QIXeEAAAAJ&hl=en
 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Sample Image" width="20" height="20">  https://www.linkedin.com/in/jing-liu-626a0b187/
 
