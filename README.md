@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Jing
 
-I am a postdoctoral bioinformatician at the U.S. Dairy Forage Research Center, USDA-ARS. With 5+ years of experience in high-throughput data analysis, I specialize in interpreting complex biological data within human and animal genomics. 
+I am currently a postdoctoral bioinformatician at the U.S. Dairy Forage Research Center, USDA-ARS. With 5+ years of experience in high-throughput data analysis, I specialize in interpreting complex biological data within human and animal genomics. 
 
 My repositories here feature a variety of high-throughput sequencing data analysis pipelines, tools, and resources for results visualization.
 
