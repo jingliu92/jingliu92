@@ -6,7 +6,10 @@ My repositories here feature a variety of high-throughput sequencing data analys
 
 I code in <img src="https://groverj3.github.io/images/Python-Logo.png" alt="Sample Image" width="60" height="20">, <img src="https://groverj3.github.io/images/Rlogo.png" alt="Sample Image" width="25" height="20">, <img src="https://groverj3.github.io/images/BASH_logo-transparent-bg-color.png" alt="Sample Image" width="45" height="20">,and anything else that needed.
 
-I'm proficient with High Performance Computing sever and I live on the command line .
+I'm proficient with High Performance Computing sever and I live on the command line.
+
 I can creat analysis pipeline and deploy it on high performance computing clusters, cloud resources, or create visualizations and explore data in a Jupyter notebook or Github.
 
-
+For more information
+My Google Scholar <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0YLxt5Uqwk-sG71onlUhqvXWykC40mR48Nw&s" alt="Sample Image" width="20" height="20">: https://scholar.google.com/citations?user=x4QIXeEAAAAJ&hl=en
+My about page https://about.me/lskatz
