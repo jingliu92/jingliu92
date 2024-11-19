@@ -16,5 +16,5 @@ My personal page<img src="https://img.freepik.com/premium-vector/woman-profile-c
 
 My Google Scholor<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0YLxt5Uqwk-sG71onlUhqvXWykC40mR48Nw&s" alt="Sample Image" width="25" height="25">: https://scholar.google.com/citations?user=x4QIXeEAAAAJ&hl=en
 
-My LinkedIn<img src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="Sample Image" width="35" height="35">: https://www.linkedin.com/in/jing-liu-626a0b187/
+My LinkedIn<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Sample Image" width="35" height="35">: https://www.linkedin.com/in/jing-liu-626a0b187/
 
