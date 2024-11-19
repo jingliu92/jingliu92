@@ -4,8 +4,7 @@ I am a postdoctoral bioinformatician at the U.S. Dairy Forage Research Center, U
 
 My repositories here feature a variety of high-throughput sequencing data analysis pipelines, tools, and resources for results visualization.
 
-I code in ![image](https://github.com/user-attachments/assets/36e5bc5b-3379-4457-99f5-4a15e068cf47)
-
+I code in <img src="https://groverj3.github.io/images/Python-Logo.png" alt="Sample Image" width="400" height="300">
 
 
 I speak 🐫 perl, ⚙️ rust, and 🐬 SQL
