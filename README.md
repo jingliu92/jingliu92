@@ -12,7 +12,7 @@ I can creat analysis pipeline and deploy it on high performance computing cluste
 
 For more information
 
-<img src="https://img.freepik.com/premium-vector/woman-profile-cartoon_18591-58480.jpg?w=1060" alt="Sample Image" width="30" height="30">
+My about page: 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0YLxt5Uqwk-sG71onlUhqvXWykC40mR48Nw&s" alt="Sample Image" width="25" height="25"> https://scholar.google.com/citations?user=x4QIXeEAAAAJ&hl=en
 
