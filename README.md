@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-I am a postdoctoral bioinformatician at the U.S. Dairy Forage Research Center, USDA-ARS. My expertise lies in integrating laboratory- and bioinformatics-based approaches to interpret complex biological data in human and animal genomics.
+I am a postdoctoral bioinformatician at the U.S. Dairy Forage Research Center, USDA-ARS. With 5+ years of experience in high-throughput data analysis, I specialize in interpreting complex biological data within human and animal genomics. 
 
 My repositories here feature a variety of high-throughput sequencing data analysis pipelines, tools, and resources for results visualization.
 
-I code in ![image](https://github.com/user-attachments/assets/17269b87-ae60-44b6-a298-08db1c64ab2e)
+I code in ![image](https://github.com/user-attachments/assets/36e5bc5b-3379-4457-99f5-4a15e068cf47)
+
 
 
 I speak 🐫 perl, ⚙️ rust, and 🐬 SQL
