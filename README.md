@@ -4,7 +4,7 @@ I am currently a postdoctoral bioinformatician at the U.S. Dairy Forage Research
 
 My repositories here feature a variety of high-throughput sequencing data analysis pipelines, tools, and resources for results visualization.
 
-- I code in <img src="https://groverj3.github.io/images/Python-Logo.png" alt="Sample Image" width="60" height="20">, <img src="https://groverj3.github.io/images/Rlogo.png" alt="Sample Image" width="25" height="20">, <img src="https://groverj3.github.io/images/BASH_logo-transparent-bg-color.png" alt="Sample Image" width="45" height="20">, and anything else that needed.
+- I code in <img src="https://groverj3.github.io/images/Python-Logo.png" alt="Sample Image" width="65" height="20">, <img src="https://groverj3.github.io/images/Rlogo.png" alt="Sample Image" width="25" height="20">, <img src="https://groverj3.github.io/images/BASH_logo-transparent-bg-color.png" alt="Sample Image" width="45" height="20">, and anything else that needed.
 
 - I'm proficient with High Performance Computing sever and I live on the command line <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRDDIHlAzTJaQZfqrcAk1XC3c5JS35S8p9Q&s" alt="Sample Image" width="25" height="20">.
 
