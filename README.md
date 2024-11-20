@@ -12,7 +12,7 @@ My repositories here feature a variety of high-throughput sequencing data analys
 
 For more information
 
-* My about page: 
+* My about page: https://jingliu92.github.io//
 
 * <img src="https://static-00.iconduck.com/assets.00/google-scholar-icon-1024x1024-052lrrku.png" alt="Sample Image" width="20" height="20"> https://scholar.google.com/citations?user=x4QIXeEAAAAJ&hl=en
 
