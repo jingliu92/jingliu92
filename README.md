@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Jing
 
-I am currently a postdoctoral bioinformatician at the U.S. Dairy Forage Research Center, USDA-ARS. With 5+ years of experience in high-throughput data analysis, I specialize in interpreting complex biological data within human and animal genomics. 
+I am currently a bioinformatics Research Scientist at IEH Laboratories and Consulting Group, WA. With 5+ years of experience in high-throughput data analysis, I specialize in interpreting complex biological data within human and animal genomics. 
 
-My repositories here feature a variety of high-throughput sequencing data analysis pipelines, tools, and resources for results visualization.
+My repositories here feature a variety of high-throughput sequencing data analysis pipelines, tools, and resources for results visualization and interpretation.
 
 - I code in <img src="https://groverj3.github.io/images/Python-Logo.png" alt="Sample Image" width="65" height="20">, <img src="https://groverj3.github.io/images/Rlogo.png" alt="Sample Image" width="25" height="20">, <img src="https://groverj3.github.io/images/BASH_logo-transparent-bg-color.png" alt="Sample Image" width="45" height="20">, and anything else that needed.
 
