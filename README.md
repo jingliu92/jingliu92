@@ -16,5 +16,5 @@ For more information
 
 * <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/15e0a374-d025-4e67-b4b4-bee07938ac31" /> https://scholar.google.com/citations?user=x4QIXeEAAAAJ&hl=en
 
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Sample Image" width="20" height="20">  https://www.linkedin.com/in/jing-liu-626a0b187/
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="Sample Image" width="20" height="20"> https://www.linkedin.com/in/jing-liu-626a0b187/
 
